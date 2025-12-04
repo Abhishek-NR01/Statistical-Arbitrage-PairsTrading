@@ -1,0 +1,7 @@
+backtrader
+pandas
+numpy
+matplotlib
+statsmodels
+yfinance
+scipy
