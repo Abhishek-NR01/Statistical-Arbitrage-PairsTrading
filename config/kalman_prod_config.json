@@ -1,0 +1,15 @@
+{
+    "window": 60,
+    "entry_z": 2.5,
+    "exit_z": 0.5,
+    "stop_z": 3.5,
+    "stake": 25,
+    "long_only": false,
+    "cash": 100000.0,
+    "commission": 0.0005,
+    "delta": 1e-05,
+    "R": 0.001,
+    "max_pairs": 3,
+    "universe_source": "cointegrated_pairs.csv",
+    "notes": "Kalman multi-pair stat arb \u2013 production config v1"
+}
